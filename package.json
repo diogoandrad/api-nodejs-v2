@@ -1,0 +1,13 @@
+{
+  "name": "api-nodejs-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg-promise": "^10.11.1"
+  }
+}
